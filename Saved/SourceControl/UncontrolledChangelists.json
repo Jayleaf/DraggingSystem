@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/DraggingSystem/Content/AdvancedDraggingSystem/UnrealDefault/FirstPersonBP/Maps/FirstPersonExampleMap.umap",
+				"D:/Unreal Projects/DraggingSystem/Content/AdvancedDraggingSystem/DraggingSystem/Components/DraggingComponent.uasset",
+				"D:/Unreal Projects/DraggingSystem/Content/AdvancedDraggingSystem/UnrealDefault/FirstPersonBP/Blueprints/BP_DraggingSystem_Char.uasset",
+				"D:/Unreal Projects/DraggingSystem/Content/AdvancedDraggingSystem/UnrealDefault/FirstPersonBP/Blueprints/FirstPersonHUD.uasset"
+			]
+		}
+	]
+}
